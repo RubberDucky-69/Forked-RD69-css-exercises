@@ -1,9 +1,25 @@
 
 
-.H1.css {
-    border: 10px;
-    background-color: red;
-    padding: 5rem;
-    display: flex;
-    text-indent: 2;
+.H1css {
+    border: 25px; 
+    background-color: rgb(42, 205, 255);
+    padding: 0rem; 
+    display: flex; 
+    
+}
+
+
+
+
+
+
+.h2css {
+    
+    text-align: center; */
+    border: 0px;
+    font-family: 'Courier New';
+    background-color: rgb(255, 253, 113);
+    padding: 0rem;
+    /* display: flex;  */
+    /* justify-content:center  */
 }
